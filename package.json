@@ -1,0 +1,14 @@
+{
+  "name": "backend-nodejs-livenotification",
+  "version": "1.0.0",
+  "description": "This is a WebSocket server template for sending real-time notifications to connected clients using Node.js and Socket.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
